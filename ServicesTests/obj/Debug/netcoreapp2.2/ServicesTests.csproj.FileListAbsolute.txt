@@ -1,0 +1,17 @@
+d:\development\VSCodeUnitTests\ServicesTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+d:\development\VSCodeUnitTests\ServicesTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+d:\development\VSCodeUnitTests\ServicesTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+d:\development\VSCodeUnitTests\ServicesTests\bin\Debug\netcoreapp2.2\ServicesTests.deps.json
+d:\development\VSCodeUnitTests\ServicesTests\bin\Debug\netcoreapp2.2\ServicesTests.runtimeconfig.json
+d:\development\VSCodeUnitTests\ServicesTests\bin\Debug\netcoreapp2.2\ServicesTests.runtimeconfig.dev.json
+d:\development\VSCodeUnitTests\ServicesTests\bin\Debug\netcoreapp2.2\ServicesTests.dll
+d:\development\VSCodeUnitTests\ServicesTests\bin\Debug\netcoreapp2.2\ServicesTests.pdb
+d:\development\VSCodeUnitTests\ServicesTests\bin\Debug\netcoreapp2.2\Services.dll
+d:\development\VSCodeUnitTests\ServicesTests\bin\Debug\netcoreapp2.2\Services.pdb
+d:\development\VSCodeUnitTests\ServicesTests\obj\Debug\netcoreapp2.2\ServicesTests.csprojAssemblyReference.cache
+d:\development\VSCodeUnitTests\ServicesTests\obj\Debug\netcoreapp2.2\ServicesTests.csproj.CoreCompileInputs.cache
+d:\development\VSCodeUnitTests\ServicesTests\obj\Debug\netcoreapp2.2\ServicesTests.AssemblyInfoInputs.cache
+d:\development\VSCodeUnitTests\ServicesTests\obj\Debug\netcoreapp2.2\ServicesTests.AssemblyInfo.cs
+d:\development\VSCodeUnitTests\ServicesTests\obj\Debug\netcoreapp2.2\ServicesTests.csproj.CopyComplete
+d:\development\VSCodeUnitTests\ServicesTests\obj\Debug\netcoreapp2.2\ServicesTests.dll
+d:\development\VSCodeUnitTests\ServicesTests\obj\Debug\netcoreapp2.2\ServicesTests.pdb

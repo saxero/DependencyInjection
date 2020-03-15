@@ -1,0 +1,9 @@
+d:\development\VSCodeUnitTests\Services\bin\Debug\netstandard2.0\Services.deps.json
+d:\development\VSCodeUnitTests\Services\bin\Debug\netstandard2.0\Services.dll
+d:\development\VSCodeUnitTests\Services\bin\Debug\netstandard2.0\Services.pdb
+d:\development\VSCodeUnitTests\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+d:\development\VSCodeUnitTests\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+d:\development\VSCodeUnitTests\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+d:\development\VSCodeUnitTests\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+d:\development\VSCodeUnitTests\Services\obj\Debug\netstandard2.0\Services.dll
+d:\development\VSCodeUnitTests\Services\obj\Debug\netstandard2.0\Services.pdb

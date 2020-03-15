@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\development\\VSCodeUnitTests\\Services\\Services.csproj": {}
+  },
+  "projects": {
+    "d:\\development\\VSCodeUnitTests\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\development\\VSCodeUnitTests\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "d:\\development\\VSCodeUnitTests\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\vivesamj\\.nuget\\packages\\",
+        "outputPath": "d:\\development\\VSCodeUnitTests\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vivesamj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nugetprod.emea.roche.com/nuget/3rdParty/": {},
+          "http://nugetprod.emea.roche.com/nuget/Development/": {},
+          "http://nugetprod.emea.roche.com/nuget/Stable/": {},
+          "http://nugetprod.emea.roche.com/nuget/unstable/": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
