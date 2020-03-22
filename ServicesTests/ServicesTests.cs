@@ -9,7 +9,7 @@ namespace Tests
     public class Tests
     {
         private ServicesParameter service = new ServicesParameter();
-        private Mock<IFruitProvider> mockService = new Mock<IFruitProvider>();
+        private Mock<IFruitProvider> mockService;
 
         [Test]
         public void Test1()
@@ -37,15 +37,16 @@ namespace Tests
         [SetUp]
         public void SetUp()
         {
-            mockService.Setup(s => s.GetFruitOfTheDay()).Returns("The fruit of the day");
-            mockService.Setup(s => s.GetPrice()).Returns(1.15);
-            
+            mockService = new Mock<IFruitProvider>();
             service.provider = mockService.Object;
         }
 
         [Test]
         public void Test_WithMock()
         {
+            mockService.Setup(s => s.GetFruitOfTheDay()).Returns("The fruit of the day");
+            mockService.Setup(s => s.GetPrice()).Returns(1.15);
+
             Assert.That(service.FruitOfTheDay, Is.EqualTo("The fruit of the day"));
             Assert.That(service.PriceFruitOfTheDay, Is.EqualTo(1.15));
         }
